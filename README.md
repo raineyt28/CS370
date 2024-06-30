@@ -37,7 +37,7 @@ Ethical Responsibilities to the End User and the Organization
 
 As a computer scientist, ethical responsibilities include:
 
-    Ensuring Privacy and Security: Protecting user data and ensuring secure systems to prevent unauthorized access       and data breaches.
+   Ensuring Privacy and Security: Protecting user data and ensuring secure systems to prevent unauthorized access       and data breaches.
     Fairness and Non-Discrimination: Designing systems that are fair and unbiased, avoiding discrimination based on       race, gender, age, or other factors.
     Transparency and Accountability: Being transparent about how systems work and taking responsibility for their        impact on users and society.
     Sustainability: Considering the environmental impact of technologies and striving to create sustainable and eco-     friendly solutions.
