@@ -7,6 +7,7 @@ Work Done on the Project
 Given Code
 
 GameExperience.py: This file includes the GameExperience class, which handles the storage of episodes (states,           actions, rewards, and next states) for experience replay. This class allows the agent to learn from past             experiences by sampling and training on stored episodes.
+
 TreasureMaze.py: This file includes the TreasureMaze class, representing the maze environment. The class defines         the maze structure, the agent's movements, rewards, and game status (win/lose conditions).
 
 Created Code
